@@ -22,5 +22,4 @@ cd frontend
 npm install
 npm start
 ```
-
-Update `YOUR_TMDB_API_KEY` in `frontend/src/App.js` with your TMDB API key.
+Author: Hanafi Solihu Olayinka
